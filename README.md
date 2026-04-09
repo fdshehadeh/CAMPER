@@ -170,7 +170,7 @@ Features and similarity matrices are cached in `../cache/`:
 ## Citation
 
 If using CAMPER, cite:
-- TODO: Add citation for "CAMPER: Mechanistic AI for Designing Peptides that Target MRSA Persisters"
+- Shehadeh, F., Mishra, B., Ferrer-Espada, R. et al. CAMPER: mechanistic artificial intelligence for designing peptides that target MRSA persisters. Nat Commun (2026). https://doi.org/10.1038/s41467-026-70348-9
 
 ## Contact & Support
 
